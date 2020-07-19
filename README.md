@@ -11,4 +11,6 @@ https://arxiv.org/abs/1508.06576
 
 # Style Image :
 
+<img src = "https://raw.githubusercontent.com/Jitensid/Neural-Style-Transfer-/master/Images/blue_build.jpg">
+
 # Output Image :
